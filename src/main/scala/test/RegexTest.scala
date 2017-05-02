@@ -10,9 +10,9 @@ import org.openjdk.jmh.annotations._
   * Last run (run -i 10 -wi 10 -f 1 .*RegexTest*):
   *
   * background log: info: Benchmark                               Mode  Cnt        Score        Error  Units
-  * background log: info: RegexTest.compileRegex129              thrpt   10   669315.416 ±  18425.743  ops/s
   * background log: info: RegexTest.compileRegex14               thrpt   10  4247387.976 ± 169785.535  ops/s
   * background log: info: RegexTest.compileRegex35               thrpt   10  1838470.186 ±  17217.402  ops/s
+  * background log: info: RegexTest.compileRegex129              thrpt   10   669315.416 ±  18425.743  ops/s
   * background log: info: RegexTest.compileRegex6343             thrpt   10    11392.471 ±    181.540  ops/s
   * background log: info: RegexTest.withMatching11               thrpt   10  5059110.730 ± 146391.700  ops/s
   * background log: info: RegexTest.withMatching23               thrpt   10  1969270.139 ±  40222.305  ops/s
