@@ -1,0 +1,7 @@
+New log file opened at Mon May 01 20:23:01 EDT 2017 by 85771@IRL-ML-JKENNY1-7.local
+Taking next connection to: 63286
+New client attempting to connect on port: 63287-63286
+  Address = /192.168.0.7:63286
+This client on port 63287 has uuid dbd8a7a3-231b-483c-8af9-997c245dc398 configName activator humanReadableName Activator protocolVersion 3 featureTags Vector()
+Connected Clients: activator-dbd8a7a3-231b-483c-8af9-997c245dc398
+Taking next connection to: 63286
